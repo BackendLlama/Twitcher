@@ -28,5 +28,5 @@ Simple Forge (1.8.9) mod for connecting your Minecraft chat with Twitch chat.
 * **/tcunban `<user>`** - *Revokes a ban on a user*
 * **/tcuntimeout `<user>`** - *Revokes a timeout on a user*
 
-Download: https://llamasoftware.net/mods/twitcher/download/1.0/twitcher-1.0.jar
+Download: https://llamasoftware.net/mods/twitcher/download/1.0/twitcher-1.0.jar  
 Built with the help of [Java-Twirk](https://github.com/Gikkman/Java-Twirk)
