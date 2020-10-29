@@ -1,0 +1,14 @@
+[{
+  "modid": "twitcher",
+  "name": "Twitcher",
+  "description": "Enables Twitch chat in your Minecraft with moderation options",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://llamasoftware.net/mods/twitcher",
+  "updateUrl": "",
+  "authorList": ["Llama4j"],
+  "credits": "Llama4j",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}]
